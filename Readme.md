@@ -16,3 +16,5 @@ https://testnet.megaeth.com/#1
 ## R2
 https://r2.money?code=0L6BQ
 
+HUB XYZ
+https://ai.hub.xyz/cult/eixaid
